@@ -3,6 +3,8 @@ title: 开始写博客了
 layout: single
 guid: 03476461bdfd4dfc91fe211624ce42ae
 date: 2019-06-06 23:04:17
+categories:
+  - 杂谈
 tags:
   - 杂谈
 ---
