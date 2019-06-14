@@ -19,6 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
     C++/并发/Python/Haskell等技术分享
 twitter_username: ""
 github_username: thawk
+repository: thawk/thawk.github.io
 minimal_mistakes_skin: default
 search: true
 
