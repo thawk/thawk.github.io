@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "thawk"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "使用``Vim``的资深``C++``码农"
+  bio    : "使用Vim的资深C++码农"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
@@ -95,7 +95,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
