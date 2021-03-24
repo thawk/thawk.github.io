@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "thawk"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/images/bio-photo.jpg"
   bio    : "使用Vim的资深C++码农"
   links:
     # - label: "Website"
